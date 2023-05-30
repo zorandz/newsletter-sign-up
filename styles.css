@@ -204,7 +204,7 @@ span {
 
     .global-container {
         min-width: 100vw;
-        height: 120vh;
+        height: 107vh;
         display: flex;
         border-radius: 0;
         flex-direction: column-reverse;
